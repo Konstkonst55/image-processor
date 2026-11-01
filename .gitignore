@@ -1,0 +1,10 @@
+build/
+.vscode/
+.idea/
+__pycache__/
+.venv/
+venv
+images/*
+!images/.gitkeep
+processed/*
+!processed/.gitkeep
